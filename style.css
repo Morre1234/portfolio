@@ -1,7 +1,19 @@
 body {
-    background-color: #111;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
     color: white;
     font-family: Arial, sans-serif;
     text-align: center;
     padding-top: 100px;
 }
+
+#header {
+    height: auto;
+    min-height: 200px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+    
