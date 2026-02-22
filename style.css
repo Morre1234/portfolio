@@ -1,5 +1,6 @@
 body {
     background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-repeat: no-repeat;
     color: white;
     font-family: Arial, sans-serif;
     text-align: center;
@@ -9,6 +10,8 @@ body {
 header {
     height: auto;
     min-height: 200px;
+    width: 70%;
+    margin: 2% auto;
     background: rgba(255, 255, 255, 0.2);
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
