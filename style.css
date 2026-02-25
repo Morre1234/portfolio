@@ -1,16 +1,9 @@
 body {
     background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
     background-repeat: no-repeat;
-    color: white;
-    font-family: Arial, sans-serif;
-    text-align: center;
     padding-top: 100px;
+     font-family: 'Inter', sans-serif;
 }
-
-body {
-  font-family: 'Inter', sans-serif;
-}
-
 h1, h2, h3, h4 {
   font-family: 'Space Grotesk', sans-serif;
 }
