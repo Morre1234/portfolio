@@ -22,7 +22,7 @@ header {
 }
     
 header h1 {
-    font-size: 16px;
+    font-size: clamp(2rem, 5vw, 3.5rem);
     font-weight: bold;
     padding: 5px;
 }
