@@ -25,5 +25,9 @@ header {
 header h1 {
     font-size: 2rem;
     font-weight: bold;
-    padding: 5px;
+    padding: 8px;
+}
+
+header p {
+    padding: 8px;
 }
